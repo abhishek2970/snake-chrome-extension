@@ -14,3 +14,7 @@ if collision with food - add new node, spawn new food
 if collision with itself - end game
 advance snake (delete last node, add new)
 check if end of game (spawned enough food to end the game)
+
+# Photo
+
+<img width="652" alt="Screenshot 2022-06-26 at 3 34 21 PM" src="https://user-images.githubusercontent.com/107938450/175809176-26175411-afd0-496c-b635-805e91128dad.png">
