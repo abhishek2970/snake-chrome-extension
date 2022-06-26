@@ -18,3 +18,5 @@ check if end of game (spawned enough food to end the game)
 # Photo
 
 <img width="652" alt="Screenshot 2022-06-26 at 3 34 21 PM" src="https://user-images.githubusercontent.com/107938450/175809176-26175411-afd0-496c-b635-805e91128dad.png">
+
+<img width="549" alt="Screenshot 2022-06-26 at 3 36 03 PM" src="https://user-images.githubusercontent.com/107938450/175809254-8ca874a8-901a-4a6d-8e90-9065fc8ae41f.png">
