@@ -2,8 +2,8 @@ var debug = true;
 
 const SNAKE_COLOR = "black";
 const SNAKE_HEAD_COLOR = "white";
-const CANVAS_COLOR = "gray";
-const FOOD_COLOR = "red";
+const CANVAS_COLOR = "purple";
+const FOOD_COLOR = "grey";
 
 const GAME_SPEED = 150; 
 const INIT_SNAKE_SIZE = 10;
